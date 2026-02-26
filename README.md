@@ -1,0 +1,1 @@
+# System-monitorowania-obecno-ci-sprz-tu
