@@ -1,1 +1,3 @@
 paho-mqtt
+discord.py
+python-dotenv
